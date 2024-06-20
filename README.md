@@ -1,4 +1,4 @@
-This project is an autonomous and bluetooth controlled car project developed within the scope of the Microprocessor Based Controllers course of the computer engineering department. The codes of the project are written in C++ language.
+### This project is an autonomous and bluetooth controlled car project developed within the scope of the Microprocessor Based Controllers course of the computer engineering department. The codes of the project are written in C++ language.
 
 ## Project photo
 
